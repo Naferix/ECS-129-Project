@@ -3,6 +3,7 @@ Knot or No Knot
 
 
 ### Pseudocode
+```
 for i = 1 -> sequence length - 2
   
   calc avg of 3 points (i , i + 1, i + 2)
@@ -30,7 +31,6 @@ for i = 1 -> sequence length - 2
     check to see if the line segment from E -> F intersects the triangle in 3d space
     
   for j = i + 1 -> sequence length - 1
-    
     set points E & F to xj and xj + 1 respectively
-    
     check to see if the line segment from E -> F intersects the triangle in 3d space
+```
