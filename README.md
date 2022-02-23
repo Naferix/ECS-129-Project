@@ -25,4 +25,4 @@ for i = 1 -> sequence length - 2
   for j = i + 1 -> sequence length - 1
     set points E & F to xj and xj + 1 respectively
     check to see if the line segment from E -> F intersects the triangle in 3d space
-```
+```python
