@@ -1,5 +1,4 @@
-# ECS-129
-Knot or No Knot
+# ECS-129 Knot or No Knot
 Imagine a protein chain as a string, if we were to take both ends of the string and pull them so as to straighten out the string, would a knot form? Some proteins do happen to possess knots, and while it is unsure if the knot plays any major role in the function of the proteins, this project detects knots in a protein chain.
 
 
